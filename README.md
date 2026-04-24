@@ -1,6 +1,6 @@
 # 👨‍💻 Luis Castro
 
-**`Desenvolvedor FullStack`**
+**`Acadêmico de Engenharia de Software`**
 
 Sou estudante de Engenharia de Software na UNDB e um entusiasta por tecnologia em busca de me especializar em Quality Assurance (QA). 
 Aqui no meu GitHub, você vai encontrar minhas experiências, estudos e todos os projetos que venho desenvolvendo.
