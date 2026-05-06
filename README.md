@@ -2,9 +2,9 @@
 
 **`Acadêmico de Engenharia de Software`**
 
-Sou o Luis Felipe Castro, maranhense de 19 anos e estudante de Engenharia de Software na UNDB. Sou fascinado por tecnologia e estou trilhando meu caminho como desenvolvedor back-end, focando na construção de soluções lógicas e eficientes. Atuo como Diretor de Extensão na Liga de Cibersegurança e integro o Squad de Atividades Internas da Software House UNDB. Aqui no meu GitHub você vai encontrar minhas experiências, estudos e projetos que refletem minha evolução constante e paixão pela infraestrutura de software.
+Sou o Luis Felipe Castro, maranhense de 19 anos e estudante de Engenharia de Software na UNDB. Sou fascinado por tecnologia e estou trilhando meu caminho como desenvolvedor back-end, focando na construção de soluções lógicas e eficientes. Aqui no meu GitHub você vai encontrar minhas experiências, estudos e projetos que refletem minha evolução constante e paixão pela infraestrutura de software.
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Techs
 
 <img 
     align="left" 
