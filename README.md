@@ -32,10 +32,3 @@ Sou o Luis Felipe Castro, maranhense de 19 anos e estudante de Engenharia de Sof
 />
 <br/>
 <br/>
-
-
-### 📊 Estatísticas
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luiscstro&radius=16&theme=gruvbox&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
-
